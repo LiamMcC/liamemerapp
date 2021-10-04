@@ -5,6 +5,10 @@ Create a new project
 C:\Users\Tutorialspoint>cd Desktop
 C:\Users\Tutorialspoint\Desktop>create-react-native-app WhateverYouWant
 
+NOTE: if you get an error like this
+'create-react-app' is not recognized as an internal or external command
+Try this npx create-react-app my-app
+
 Open a new terminal in the app
 
 When the project is created 
